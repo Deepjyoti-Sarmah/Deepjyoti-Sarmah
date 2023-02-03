@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepjyoti Sarmah</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepjyoti-sarmah&label=Profile%20views&color=0e75b6&style=flat" alt="deepjyoti-sarmah" /> </p>
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [JavaScript-Tutorials](https://github.com/Deepjyoti-Sarmah/JavaScript-Tutorials)
 
-- 🌱 I’m currently learning **JavaScript,Golang,Rust,Solidity,Blockchain,Devops**
+- 🌱 I’m currently learning **JavaScript,Golang,Solidity,Blockchain**
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
 
-- 👨‍💻 Some of my projects are available at [https://falling-grass-9580.on.fleek.co/](https://falling-grass-9580.on.fleek.co/)
+- 👨‍💻 Some of my projects are available at [personal website](https://deepjyotisarmah.vercel.app/)
 
 - 💬 Ask me about **Linux,Git,Java,Blockchain**
 
