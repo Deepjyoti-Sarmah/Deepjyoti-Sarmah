@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepjyoti-sarmah&label=Profile%20views&color=0e75b6&style=flat" alt="deepjyoti-sarmah" /> </p>
 
 
-- 🔭 I’m currently working on [JavaScript-Tutorials](https://github.com/Deepjyoti-Sarmah/JavaScript-Tutorials)
+- 🔭 I’m currently working on [leetcode clone](https://github.com/Deepjyoti-Sarmah/leadingCode)
 
 - 🌱 I’m currently learning **JavaScript,Golang,Solidity,Blockchain**
 
