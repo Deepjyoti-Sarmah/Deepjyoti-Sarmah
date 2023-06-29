@@ -13,7 +13,7 @@
 
 - 👨‍💻 Some of my projects are available at [personal website](https://deepjyotisarmah.vercel.app/)
 
-- 💬 Ask me about **Linux,Git,Java,Blockchain**
+- 💬 Ask me about **Linux,Git,JavaScript,Go,Blockchain**
 
 - 📫 How to reach me **deepjyotisarmah37@gmail.com**
 
@@ -32,7 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepjyoti-sarmah&show_icons=true&locale=en&layout=compact" alt="deepjyoti-sarmah" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepjyoti-sarmah&show_icons=true&locale=en" alt="deepjyoti-sarmah" /></p>
+<!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepjyoti-sarmah&show_icons=true&locale=en" alt="deepjyoti-sarmah" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepjyoti-sarmah&" alt="deepjyoti-sarmah" /></p>
 
